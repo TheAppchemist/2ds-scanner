@@ -1,0 +1,4 @@
+dependencies {
+  implementation 'com.google.android.gms:play-services-gcm:9.6.1'
+  implementation 'com.google.android.gms:play-services-location:9.6.1'
+}

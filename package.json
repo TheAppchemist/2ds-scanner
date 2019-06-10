@@ -1,0 +1,17 @@
+{
+  "name": "2DScanner",
+  "version": "0.1.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-2ds-scanner",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Melvin Musehani",
+  "license": "ISC"
+}
