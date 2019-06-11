@@ -12,7 +12,7 @@
                 <param name="android-package" value="com.appchemy.Scanner" />
             </feature>
         </config-file>
-        <framework custom="true" src="src/android/2d-scanner.gradle" type="gradleReference" />
+        <!-- <framework custom="true" src="src/android/2d-scanner.gradle" type="gradleReference" /> -->
         <config-file parent="/*" target="AndroidManifest.xml"></config-file>
         <source-file src="src/android/com/appchemy/Scanner.java" target-dir="src/com/appchemy" />
         <source-file src="src/android/libs/cw-deviceapi20180918.jar" target-dir="app/libs/" />
