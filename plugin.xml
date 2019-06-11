@@ -17,5 +17,6 @@
         <source-file src="src/android/com/appchemy/Scanner.java" target-dir="src/com/appchemy" />
         <source-file src="src/android/libs/cw-deviceapi20180918.jar" target-dir="app/libs/" />
         <source-file src="src/android/libs/IGLBarDecoder.jar" target-dir="app/libs/" />
+        <source-file src="src/android/libs/jniLibs" target-dir="app/src/main/" />
     </platform>
 </plugin>
